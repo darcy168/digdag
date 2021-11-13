@@ -23,7 +23,7 @@
     "@fortawesome/react-fontawesome": "^0.1.4",
     "bootstrap": "4.3.1",
     "brace": "^0.10.0",
-    "buffer": "5.0.5",
+    "buffer": "5.7.1",
     "cryptiles": "4.1.2",
     "duration": "^0.2.0",
     "jquery": "3.5.0",
