@@ -41,7 +41,7 @@
     "react-addons-pure-render-mixin": "15.6.2",
     "react-dom": "16.8.6",
     "react-interval": "2.1.0",
-    "react-json-pretty": "1.5.0",
+    "react-json-pretty": "2.0.1",
     "react-measure": "^1.4.7",
     "react-router-dom": "^5.0.1",
     "snazzy": "^6.0.0",
