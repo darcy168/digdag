@@ -16,7 +16,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@babel/runtime": "^7.2.0",
+    "@babel/runtime": "^7.26.10",
     "@types/react": "^16.8.23",
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
@@ -43,7 +43,7 @@
     "react-interval": "2.1.0",
     "react-json-pretty": "1.5.0",
     "react-measure": "^1.4.7",
-    "react-router-dom": "^5.0.1",
+    "react-router-dom": "^6.4.0",
     "snazzy": "^6.0.0",
     "tar-js": "^0.3.0",
     "tether": "^1.4.5",
